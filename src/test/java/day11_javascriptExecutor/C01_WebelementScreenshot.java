@@ -1,4 +1,4 @@
-package tests.day11_javascriptExecutor;
+package day11_javascriptExecutor;
 
 import org.junit.Assert;
 import org.junit.Test;
